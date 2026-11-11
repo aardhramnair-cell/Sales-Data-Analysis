@@ -1,2 +1,9 @@
-# Sales-Data-Analysis
-Sales analysis project using Excel and Python
+# Sales Data Analysis
+
+This project analyzes sales data
+using Excel and Python.
+
+## Objectives
+- Analyze sales
+- Find top products
+- Calculate total revenue
